@@ -1,4 +1,4 @@
-name: Post welcome comment
+name: Therese lernt noch github
 on:
  push
  # pull_request:
