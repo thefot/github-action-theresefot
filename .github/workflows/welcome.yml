@@ -1,7 +1,8 @@
 name: Post welcome comment
 on:
-  pull_request:
-    types: [opened]
+ push
+ # pull_request:
+   # types: [opened]
 jobs:
   build:
     name: Post welcome comment
