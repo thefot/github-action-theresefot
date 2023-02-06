@@ -9,3 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: ls -la
+    - run: echo "hallo erde"
+    - run: docker run hello-world 
